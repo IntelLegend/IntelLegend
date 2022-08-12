@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Odudu</h1>
 <h3 align="center">An ALX Software Engineering Student From Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/IntelLegend/IntelLegend/main/FB_IMG_1659521634322.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/4TcZdYX/Screenshot-20220807-135559.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intellegend&label=Profile%20views&color=0e75b6&style=flat" alt="intellegend" /> </p>
 
